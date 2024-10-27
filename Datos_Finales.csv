@@ -1,0 +1,194 @@
+ID_Anonimo,Semestre_Ubi,Sexo,Edad,Naturaleza_Colegio,Discapacidad,Servicio_Salud,Tipo_Vivienda,Estrato_Vivienda,Adultos_Responsables,Num_Personas_Hogar,Situacion_Laboral_Madre,Situacion_Laboral_Padre,Educacion_Madre,Educacion_Padre,Libros_Leidos,Mudar_Bogota,Tiempo_Transporte_U,Num_Transportes_U,Pago_Carrera,Inconveniente_Pago,Cantidad_Refuerzo_Areas,Cantidad_Deporte_Interes,Cantidad_Cultura_Interes,Tiempo_Sin_Estudios,Puntaje_ICFES,Promedio
+366413a452,2, F,20.0,Privado,No,Si,Arrendada,3,Familiar(es),3,Aporta en el hogar,No Aporta en el hogar,Profesional,Profesional,2,SI,30.0,1,Recursos Propios,Muy probable,3,1,1,2.0,300.0,2.781444444444444
+75972fcf97,3, M,21.0,Privado,No,Si,Propia,3,Familiar(es),4,Aporta en el hogar,Aporta en el hogar,Posgrado,Primaria,2,No,60.0,1,Recursos Propios,Poco probable,3,1,1,0.0,328.0,3.257430555555555
+101286d144,3, M,19.0,Privado,No,Si,Arrendada,4,Padre(s),3,Aporta en el hogar,No Aporta en el hogar,Profesional,Secundaria,3,No,120.0,2,Crédito Estrella,Poco probable,3,2,1,2.0,276.0,3.075069987468672
+b3069571ba,4, M,19.0,Público,No,Si,Propia,1,Padre(s),4,Aporta en el hogar,Aporta en el hogar,Secundaria,Primaria,3,No,120.0,2,Recursos Propios,Muy probable,4,4,3,0.0,250.0,3.464660784313725
+8c34ab64aa,5, M,22.0,Público,No,Si,Propia,3,Padre(s),3,Aporta en el hogar,No Aporta en el hogar,Técnico,Primaria,0,No,60.0,0,Recursos Propios,Improbable,3,1,1,4.0,337.0,4.002668859649122
+4d963496db,5, F,21.0,Privado,No,Si,Arrendada,1,Padre(s),3,Aporta en el hogar,Aporta en el hogar,Profesional,Secundaria,4,No,90.0,2,Crédito Estrella Pro,Poco probable,2,3,2,2.0,289.0,4.028459795321637
+0c2cd233aa,5, M,22.0,Público,No,Si,Propia,2,Padre(s),3,Aporta en el hogar,Aporta en el hogar,Secundaria,Primaria,2,No,90.0,2,Crédito Estrella Pro,Poco probable,3,1,1,4.0,328.0,3.85947149122807
+97a8256d88,5, M,19.0,Privado,No,Si,Propia,4,Padre(s),4,Aporta en el hogar,Aporta en el hogar,Profesional,Tecnólogo,1,No,60.0,2,Crédito Estrella Pro,Poco probable,2,1,1,2.0,353.0,3.698925438596491
+45bbc73d06,5, M,19.0,Privado,No,Si,Propia,1,Padre(s),3,No Aporta en el hogar,Aporta en el hogar,Primaria,Primaria,4,No,120.0,2,Jóvenes a la U,Improbable,5,1,1,0.0,305.0,4.038322514619884
+0ecfeabf41,5, F,20.0,Privado,No,Si,Propia,3,Padre(s),4,Aporta en el hogar,Aporta en el hogar,Posgrado,Posgrado,6,No,150.0,2,Recursos Propios,Poco probable,3,1,1,0.0,347.0,4.33735380116959
+b239239e1b,5, F,19.0,Privado,No,Si,Arrendada,3,Padre(s),3,Aporta en el hogar,Aporta en el hogar,Profesional,Secundaria,3,No,30.0,0,Recursos Propios,Poco probable,5,1,1,2.0,350.0,4.574876461988303
+901042df4d,5, M,21.0,Privado,No,Si,Propia,4,Padre(s),2,Aporta en el hogar,Aporta en el hogar,Profesional,Profesional,7,No,90.0,2,Crédito Estrella Pro,Poco probable,3,1,1,3.0,373.0,4.422193421052631
+a786f813b2,5, M,20.0,Público,No,Si,Propia,3,Padre(s),3,Aporta en el hogar,No Aporta en el hogar,Posgrado,Primaria,2,No,120.0,2,Recursos Propios,Poco probable,3,1,1,2.0,288.0,3.934701953748006
+c09f9c983b,5, F,20.0,Público,No,Si,Arrendada,3,Padre(s),4,Aporta en el hogar,Aporta en el hogar,Tecnólogo,Posgrado,2,No,60.0,1,Jóvenes a la U,Improbable,5,1,1,0.0,318.0,4.348629678362573
+c827814c56,5, F,21.0,Público,No,Si,Propia,2,Padre(s),6,Aporta en el hogar,Aporta en el hogar,Posgrado,Técnico,2,No,90.0,2,Crédito Estrella Pro,Poco probable,2,1,1,2.0,315.0,3.893819190185609
+14a2c8437f,5, M,19.0,Privado,No,Si,Propia,3,Padre(s),4,Aporta en el hogar,Aporta en el hogar,Profesional,Profesional,2,No,90.0,2,Recursos Propios,Muy probable,2,1,1,2.0,285.0,4.111241959064327
+c2ab544b34,5, M,20.0,Privado,No,Si,Arrendada,4,Padre(s),6,Aporta en el hogar,Aporta en el hogar,Posgrado,Posgrado,1,No,30.0,1,Recursos Propios,Poco probable,2,1,1,2.0,349.0,4.177050438596491
+710e104825,5, F,19.0,Público,No,Si,Propia,2,Padre(s),5,Aporta en el hogar,Aporta en el hogar,Profesional,Secundaria,2,No,90.0,2,Crédito Estrella Pro,Poco probable,2,1,1,0.0,325.0,3.948353801169591
+1c65180aa1,5, F,19.0,Público,No,Si,Arrendada,3,Padre(s),2,Aporta en el hogar,Aporta en el hogar,Profesional,Secundaria,2,No,90.0,2,Jóvenes a la U,Poco probable,2,1,1,0.0,313.0,3.37875342201658
+be012eb207,5, F,22.0,Privado,No,No,Propia,3,Padre(s),2,Aporta en el hogar,No Aporta en el hogar,Posgrado,Profesional,15,No,90.0,2,Icetex,Muy probable,2,1,2,4.0,372.0,3.963010832004252
+c673476ec5,5, M,27.0,Público,No,Si,Arrendada,2,Propio,1,No Aporta en el hogar,Aporta en el hogar,Primaria,Primaria,5,SI,30.0,0,Icetex,Muy probable,2,1,1,18.0,295.0,3.928194713908956
+ccd9cf2ad8,5, F,19.0,Público,No,Si,Arrendada,2,Padre(s),5,No Aporta en el hogar,Aporta en el hogar,Técnico,Profesional,1,No,90.0,2,Jóvenes a la U,Poco probable,2,1,1,0.0,318.0,3.472066970310391
+e508d263c2,5, F,20.0,Público,No,Si,Propia,2,Padre(s),4,Aporta en el hogar,Aporta en el hogar,Tecnólogo,Técnico,18,No,150.0,2,Jóvenes a la U,Improbable,2,1,1,2.0,339.0,3.870348606811146
+84739cc628,5, M,19.0,Público,No,Si,Propia,1,Padre(s),4,No Aporta en el hogar,Aporta en el hogar,Primaria,Primaria,4,No,90.0,2,Jóvenes a la U,Improbable,2,1,1,0.0,342.0,4.027198830409357
+b07eb23671,1, M,20.0,Privado,No,Si,Propia,2,Propio,1,No Aporta en el hogar,No Aporta en el hogar,Primaria,Primaria,3,No,60.0,0,Jóvenes a la U,Improbable,3,1,1,3.0,321.0,1.855405982905983
+915f221683,2, M,21.0,Privado,No,Si,Propia,3,Padre(s),3,Aporta en el hogar,Aporta en el hogar,Profesional,Tecnólogo,5,No,90.0,2,Icetex,Poco probable,3,1,1,1.0,312.0,3.066538461538462
+f89fa57843,2, M,20.0,Privado,No,Si,Arrendada,3,Padre(s),3,Aporta en el hogar,Aporta en el hogar,Tecnólogo,Profesional,3,No,90.0,1,Crédito Estrella Pro,Poco probable,2,1,1,1.0,285.0,3.307416666666667
+d70a7cb68c,3, M,20.0,Público,No,Si,Arrendada,4,Padre(s),5,Aporta en el hogar,Aporta en el hogar,Posgrado,Profesional,0,No,90.0,2,Recursos Propios,Poco probable,2,1,1,1.0,330.0,2.865200854700854
+ca3b879918,3, M,19.0,Privado,No,Si,Propia,6,Familiar(es),4,Aporta en el hogar,Aporta en el hogar,Posgrado,Posgrado,2,SI,60.0,1,Recursos Propios,Poco probable,3,1,1,0.0,348.0,3.101880050505051
+cead8878b0,3, M,19.0,Público,No,Si,Propia,2,Padre(s),3,No Aporta en el hogar,No Aporta en el hogar,Profesional,Secundaria,3,No,30.0,0,Jóvenes a la U,Poco probable,5,1,1,0.0,353.0,4.2834375
+1db0b64013,4, M,22.0,Público,No,Si,Arrendada,2,Propio,2,Aporta en el hogar,Aporta en el hogar,Profesional,Tecnólogo,0,No,60.0,1,Recursos Propios,Poco probable,3,1,1,7.0,333.0,3.064726790935673
+b066358142,4, F,23.0,Privado,No,Si,Propia,2,Padre(s),4,Aporta en el hogar,Aporta en el hogar,Profesional,Profesional,2,No,120.0,1,Jóvenes a la U,Poco probable,3,1,1,10.0,315.0,4.352875
+8e07db480b,4, M,20.0,Público,No,Si,Arrendada,2,Padre(s),4,Aporta en el hogar,Aporta en el hogar,Profesional,Profesional,2,No,90.0,1,Jóvenes a la U,Poco probable,4,1,1,0.0,323.0,4.159034090909091
+cb0ee578fa,4, F,25.0,Privado,No,Si,Arrendada,3,Padre(s),2,Aporta en el hogar,Aporta en el hogar,Técnico,Secundaria,2,No,120.0,1,Jóvenes a la U,Poco probable,4,1,1,13.0,320.0,3.942013888888889
+67bb8545de,4, F,20.0,Privado,No,No,Propia,1,Padre(s),4,No Aporta en el hogar,Aporta en el hogar,Primaria,Primaria,10,No,120.0,2,Jóvenes a la U,Poco probable,2,1,1,4.0,313.0,3.989046717171717
+62ce1a6478,4, M,20.0,Privado,No,Si,Propia,3,Padre(s),4,Aporta en el hogar,No Aporta en el hogar,Secundaria,Secundaria,0,No,120.0,1,Recursos Propios,Muy probable,5,1,1,2.0,319.0,3.655805021367522
+9568de0669,4, F,19.0,Privado,No,Si,Propia,2,Padre(s),7,Aporta en el hogar,Aporta en el hogar,Secundaria,Secundaria,1,No,90.0,2,Recursos Propios,Poco probable,2,1,1,0.0,327.0,3.95109126984127
+d4c665818f,4, M,20.0,Público,No,Si,Propia,2,Padre(s),4,No Aporta en el hogar,No Aporta en el hogar,Secundaria,Primaria,5,No,120.0,2,Jóvenes a la U,Improbable,2,1,1,2.0,353.0,4.061448412698412
+d6c152a688,4, M,21.0,Público,No,Si,Propia,2,Padre(s),5,Aporta en el hogar,Aporta en el hogar,Secundaria,Primaria,1,No,90.0,1,Jóvenes a la U,Poco probable,3,1,1,2.0,309.0,3.273489583333333
+3afb94baf7,5, M,19.0,Privado,No,Si,Propia,3,Padre(s),2,Aporta en el hogar,Aporta en el hogar,Posgrado,Posgrado,3,No,120.0,1,Recursos Propios,Muy probable,3,1,1,0.0,323.0,4.154135101010101
+39c7b3e7e9,5, F,23.0,Público,No,Si,Arrendada,2,Padre(s),5,No Aporta en el hogar,Aporta en el hogar,Profesional,Primaria,4,No,60.0,1,Otra beca,Poco probable,2,1,1,9.0,345.0,4.415069444444444
+4b42977942,1,N,25.0,Privado,No,Si,Propia,4,Padre(s),4,Aporta en el hogar,Aporta en el hogar,Profesional,Profesional,4,No,30.0,1,Recursos Propios,Poco probable,4,1,1,8.0,335.0,2.81
+c3d510f91e,1,N,18.0,Privado,No,Si,Arrendada,4,Padre(s),4,Aporta en el hogar,Aporta en el hogar,Profesional,Tecnólogo,50,SI,150.0,2,Recursos Propios,Improbable,2,1,2,2.0,300.0,2.798125
+036e8e60b4,1,N,18.0,Privado,No,Si,Propia,3,Padre(s),4,Aporta en el hogar,Aporta en el hogar,Profesional,Profesional,1,No,60.0,2,Otra beca,Poco probable,4,1,1,0.0,278.0,2.729375
+1f5bf68840,1,N,19.0,Privado,No,Si,Arrendada,3,Padre(s),3,No Aporta en el hogar,Aporta en el hogar,Tecnólogo,Secundaria,1,No,150.0,2,Recursos Propios,Poco probable,3,1,1,2.0,295.0,0.8200000000000001
+f793f3c264,1, M,19.0,Privado,No,Si,Propia,5,Padre(s),2,Aporta en el hogar,No Aporta en el hogar,Profesional,Profesional,2,SI,30.0,0,Recursos Propios,Improbable,4,1,1,2.0,323.0,
+b45307bf7e,1, M,21.0,Público,No,Si,Arrendada,2,Padre(s),1,Aporta en el hogar,Aporta en el hogar,Primaria,Primaria,3,No,90.0,1,Jóvenes a la U,Muy probable,5,1,2,0.0,272.0,
+3274b2c11f,1, M,21.0,Público,No,Si,Arrendada,2,Padre(s),4,Aporta en el hogar,No Aporta en el hogar,Primaria,Primaria,1,No,90.0,1,Jóvenes a la U,Poco probable,6,1,1,0.0,292.0,2.267692307692308
+8c4611b870,1, M,18.0,Privado,No,Si,Propia,3,Padre(s),3,Aporta en el hogar,Aporta en el hogar,Profesional,Secundaria,0,No,30.0,1,Crédito Estrella Pro,Muy probable,3,1,1,0.0,269.0,2.208461538461538
+ccce867574,2, F,19.0,Privado,Si,Si,Propia,4,Padre(s),3,Aporta en el hogar,Aporta en el hogar,Profesional,Profesional,15,No,90.0,2,Recursos Propios,Poco probable,2,1,1,0.0,372.0,2.676875
+cc4d85fbcb,2, M,19.0,Privado,No,Si,Propia,3,Padre(s),3,No Aporta en el hogar,Aporta en el hogar,Profesional,Posgrado,4,No,150.0,2,Crédito Estrella,Muy probable,2,1,1,2.0,321.0,3.300230263157895
+9f533c9b14,2, F,19.0,Público,No,Si,Arrendada,1,Padre(s),7,No Aporta en el hogar,Aporta en el hogar,Primaria,Primaria,5,No,150.0,1,Jóvenes a la U,Muy probable,3,1,1,0.0,123.0,2.9091875
+6abc9a2ea0,2, M,18.0,Público,No,Si,Arrendada,2,Familiar(es),4,No Aporta en el hogar,Aporta en el hogar,Desconocido,Secundaria,0,No,60.0,1,Jóvenes a la U,Improbable,6,1,1,0.0,279.0,3.036217948717948
+fb4219d4ed,2, M,27.0,Privado,No,Si,Arrendada,2,Familiar(es),3,No Aporta en el hogar,No Aporta en el hogar,Secundaria,Secundaria,1,No,60.0,2,Jóvenes a la U,Poco probable,3,1,1,16.0,267.0,3.870388888888889
+a1a5f91ce9,2, F,21.0,Privado,No,Si,Propia,2,Padre(s),3,No Aporta en el hogar,Aporta en el hogar,Tecnólogo,Técnico,2,No,60.0,1,Crédito Estrella Pro,Muy probable,3,1,1,6.0,250.0,3.126854166666666
+e9eacc7295,2, M,19.0,Privado,No,Si,Arrendada,2,Padre(s),4,Aporta en el hogar,Aporta en el hogar,Secundaria,Profesional,4,SI,150.0,2,Jóvenes a la U,Poco probable,3,1,1,0.0,263.0,3.192393162393162
+efdc4f8bed,2, F,25.0,Privado,No,Si,Propia,3,Padre(s),3,Aporta en el hogar,Aporta en el hogar,Técnico,Profesional,1,No,150.0,2,Jóvenes a la U,Poco probable,4,1,4,10.0,300.0,3.375
+2038ebca07,3, F,19.0,Público,No,Si,Arrendada,2,Padre(s),5,No Aporta en el hogar,Aporta en el hogar,Primaria,Secundaria,1,SI,120.0,2,Jóvenes a la U,Poco probable,4,1,1,0.0,229.0,3.15412037037037
+3e16133033,3, M,19.0,Público,No,Si,Propia,3,Padre(s),3,Aporta en el hogar,Aporta en el hogar,Profesional,Profesional,1,SI,60.0,1,Crédito Estrella Pro,Poco probable,3,1,1,2.0,320.0,3.693583333333333
+db720edbe7,3, M,18.0,Privado,No,Si,Propia,4,Padre(s),3,Aporta en el hogar,Aporta en el hogar,Profesional,Posgrado,3,No,60.0,1,Recursos Propios,Improbable,2,1,1,2.0,347.0,3.400394736842105
+a53eed4c9c,3, M,20.0,Privado,Si,Si,Propia,3,Padre(s),3,Aporta en el hogar,Aporta en el hogar,Posgrado,Profesional,3,SI,30.0,0,Crédito Estrella Pro,Poco probable,4,1,1,2.0,341.0,3.607291666666667
+5af4cf1b2f,3,N,20.0,Privado,No,Si,Propia,2,Padre(s),4,Aporta en el hogar,Aporta en el hogar,Profesional,Tecnólogo,0,SI,150.0,2,Crédito Estrella Pro,Muy probable,4,1,1,2.0,304.0,3.043895202020202
+23c6c0c1fd,3, M,18.0,Privado,No,Si,Propia,3,Padre(s),3,No Aporta en el hogar,Aporta en el hogar,Primaria,Primaria,3,No,60.0,1,Crédito Estrella Pro,Poco probable,2,1,1,2.0,310.0,3.222152777777778
+fc0d03b9a5,3,N,20.0,Privado,No,Si,Propia,3,Padre(s),4,Aporta en el hogar,Aporta en el hogar,Tecnólogo,Técnico,2,No,60.0,1,Recursos Propios,Muy probable,2,1,1,2.0,311.0,3.5733836996337
+f0210d0568,3, M,19.0,Privado,No,Si,Arrendada,4,Padre(s),3,No Aporta en el hogar,No Aporta en el hogar,Posgrado,Profesional,3,No,60.0,1,Recursos Propios,Poco probable,2,1,1,2.0,345.0,4.228325000000001
+86e599cfcc,3, F,18.0,Público,No,Si,Propia,2,Padre(s),3,No Aporta en el hogar,Aporta en el hogar,Secundaria,Secundaria,3,No,90.0,1,Otra beca,Muy probable,4,1,1,2.0,310.0,3.612234848484848
+1963d684f0,3, M,20.0,Privado,No,Si,Propia,4,Padre(s),5,No Aporta en el hogar,No Aporta en el hogar,Profesional,Profesional,3,No,60.0,2,Crédito Estrella Pro,Muy probable,2,1,1,2.0,281.0,3.574782407407407
+a957ff781e,3, M,20.0,Privado,No,Si,Propia,3,Padre(s),5,Aporta en el hogar,Aporta en el hogar,Posgrado,Secundaria,4,No,30.0,0,Recursos Propios,Poco probable,2,1,1,0.0,372.0,3.055327380952381
+a12df9dc40,3, M,19.0,Público,No,Si,Propia,2,Padre(s),4,Aporta en el hogar,Aporta en el hogar,Profesional,Técnico,1,No,90.0,2,Icetex,Poco probable,4,1,1,2.0,342.0,4.537440476190477
+96d8e18def,3, M,18.0,Privado,No,Si,Propia,3,Padre(s),2,Aporta en el hogar,Aporta en el hogar,Posgrado,Posgrado,0,SI,30.0,0,Recursos Propios,Poco probable,4,1,1,2.0,355.0,3.911153846153846
+4123b1f998,3,N,19.0,Privado,No,Si,Propia,4,Padre(s),4,No Aporta en el hogar,Aporta en el hogar,Profesional,Posgrado,1,No,120.0,1,Jóvenes a la U,Poco probable,2,1,1,2.0,336.0,3.534396086369771
+76cf3d5112,4,N,20.0,Público,No,Si,Arrendada,3,Padre(s),4,Aporta en el hogar,Aporta en el hogar,Primaria,Primaria,4,SI,90.0,2,Otra beca,Poco probable,3,1,1,0.0,383.0,4.591041666666666
+038c3d293a,4, M,18.0,Privado,No,Si,Propia,3,Padre(s),3,Aporta en el hogar,Aporta en el hogar,Secundaria,Secundaria,0,No,120.0,1,Crédito Estrella,Muy probable,6,1,1,2.0,302.0,3.473829365079365
+2c17477e52,4, M,18.0,Privado,No,Si,Propia,3,Padre(s),4,Aporta en el hogar,Aporta en el hogar,Profesional,Profesional,6,No,30.0,2,Recursos Propios,Poco probable,4,1,1,2.0,351.0,4.074184782608696
+67c62378e0,4, F,19.0,Privado,No,Si,Arrendada,3,Padre(s),3,Aporta en el hogar,Aporta en el hogar,Técnico,Secundaria,4,No,60.0,1,Recursos Propios,Muy probable,4,1,2,2.0,316.0,3.874791666666667
+81871edfb6,4, F,19.0,Público,No,Si,Arrendada,2,Familiar(es),2,Aporta en el hogar,Aporta en el hogar,Secundaria,Primaria,1,No,90.0,1,Recursos Propios,Poco probable,4,1,1,2.0,311.0,3.926418650793651
+6390821b94,4, F,19.0,Público,Si,Si,Arrendada,2,Padre(s),3,Aporta en el hogar,Aporta en el hogar,Primaria,Primaria,2,No,120.0,2,Jóvenes a la U,Improbable,2,1,1,0.0,304.0,3.698452380952381
+0eb284908b,4, M,19.0,Público,No,Si,Propia,2,Padre(s),7,No Aporta en el hogar,Aporta en el hogar,Secundaria,Secundaria,2,SI,90.0,1,Jóvenes a la U,Improbable,3,1,1,0.0,338.0,4.336121031746032
+e5250195ec,4, M,19.0,Privado,No,Si,Arrendada,4,Padre(s),4,Aporta en el hogar,Aporta en el hogar,Posgrado,Posgrado,2,SI,60.0,2,Crédito Estrella,Poco probable,5,1,1,2.0,355.0,4.472313596491229
+4c15642a35,4, M,19.0,Privado,No,Si,Propia,1,Padre(s),4,Aporta en el hogar,Aporta en el hogar,Posgrado,Tecnólogo,4,No,120.0,2,Recursos Propios,Poco probable,3,1,1,2.0,325.0,3.755138888888889
+a5c228372f,4,N,19.0,Privado,No,Si,Propia,3,Padre(s),4,No Aporta en el hogar,Aporta en el hogar,Tecnólogo,Posgrado,4,No,150.0,2,Recursos Propios,Poco probable,2,1,1,2.0,315.0,3.927833333333334
+1e4cd8ed14,4, F,19.0,Privado,No,Si,Propia,4,Padre(s),4,Aporta en el hogar,Aporta en el hogar,Profesional,Profesional,4,SI,30.0,2,Crédito Estrella Pro,Muy probable,4,1,1,0.0,318.0,3.603666666666667
+c985cf3116,4, M,19.0,Privado,No,No,Propia,3,Padre(s),4,Aporta en el hogar,Aporta en el hogar,Profesional,Posgrado,6,No,60.0,2,Recursos Propios,Improbable,2,1,1,2.0,403.0,4.624176587301587
+2e32cd1e37,4, M,19.0,Privado,No,Si,Propia,3,Padre(s),4,Aporta en el hogar,Aporta en el hogar,Secundaria,Técnico,5,No,90.0,2,Recursos Propios,Muy probable,2,1,1,2.0,345.0,4.132996031746032
+d8e3445cf3,4, M,18.0,Privado,No,Si,Propia,3,Propio,4,Aporta en el hogar,Aporta en el hogar,Secundaria,Posgrado,2,SI,60.0,2,Recursos Propios,Poco probable,5,1,1,2.0,365.0,4.228453947368421
+beb9b262d2,4,N,19.0,Privado,No,Si,Propia,2,Padre(s),4,Aporta en el hogar,Aporta en el hogar,Posgrado,Posgrado,1,No,30.0,0,Crédito Estrella Pro,Poco probable,5,1,1,0.0,330.0,4.210763888888889
+09f0dbe9f7,4, M,18.0,Privado,No,Si,Propia,2,Padre(s),6,Aporta en el hogar,Aporta en el hogar,Posgrado,Secundaria,7,No,90.0,2,Recursos Propios,Muy probable,3,1,1,2.0,415.0,4.891809210526315
+18780e1f8e,4, F,18.0,Público,No,Si,Propia,3,Padre(s),4,Aporta en el hogar,Aporta en el hogar,Secundaria,Primaria,2,No,90.0,1,Crédito Estrella Pro,Poco probable,3,1,1,2.0,317.0,3.699338768115942
+b0f08bb1a8,4, M,18.0,Privado,No,Si,Arrendada,3,Padre(s),5,No Aporta en el hogar,Aporta en el hogar,Tecnólogo,Profesional,10,No,60.0,2,Crédito Estrella Pro,Poco probable,2,1,1,2.0,321.0,3.944121376811594
+1d6860f1c5,4, M,21.0,Público,No,Si,Arrendada,3,Propio,2,No Aporta en el hogar,Aporta en el hogar,Profesional,Posgrado,18,No,90.0,2,Jóvenes a la U,Improbable,3,1,1,6.0,290.0,3.940009920634921
+1a5cdcb2cd,4,N,18.0,Privado,No,Si,Propia,4,Padre(s),4,Aporta en el hogar,Aporta en el hogar,Posgrado,Profesional,3,No,60.0,1,Recursos Propios,Poco probable,2,1,1,2.0,328.0,4.101740196078431
+10f9b05b2e,4, M,19.0,Privado,No,Si,Propia,3,Padre(s),6,Aporta en el hogar,Aporta en el hogar,Técnico,Posgrado,2,No,60.0,1,Crédito Estrella Pro,Muy probable,2,1,1,2.0,348.0,4.053521825396825
+7aa343d8cc,4, F,19.0,Privado,No,Si,Propia,4,Padre(s),5,Aporta en el hogar,No Aporta en el hogar,Profesional,Primaria,4,No,60.0,1,Crédito Estrella,Poco probable,2,1,1,2.0,362.0,4.851418650793651
+61ea3e6ada,4, M,20.0,Público,No,Si,Arrendada,4,Padre(s),5,Aporta en el hogar,Aporta en el hogar,Tecnólogo,Secundaria,2,No,90.0,2,Crédito Estrella Pro,Poco probable,2,1,1,2.0,361.0,3.740267857142858
+fe32bc7597,4, M,18.0,Público,No,Si,Arrendada,4,Padre(s),4,Aporta en el hogar,Aporta en el hogar,Posgrado,Profesional,5,No,90.0,1,Crédito Estrella Pro,Poco probable,2,1,1,2.0,360.0,4.304662698412699
+80f2a35c14,4, M,18.0,Privado,No,Si,Propia,4,Padre(s),4,Aporta en el hogar,Aporta en el hogar,Profesional,Posgrado,7,SI,120.0,1,Crédito Estrella Pro,Poco probable,2,1,1,2.0,347.0,3.862927631578947
+0f93045570,1, M,17.0,Público,No,Si,Propia,4,Padre(s),3,Aporta en el hogar,Aporta en el hogar,Posgrado,Posgrado,0,SI,60.0,1,Recursos Propios,Improbable,3,1,1,0.0,362.0,2.86125
+000ece73dd,1, M,28.0,Privado,No,Si,Propia,2,Padre(s),5,No Aporta en el hogar,Aporta en el hogar,Secundaria,Secundaria,5,No,60.0,1,Otra beca,Improbable,4,1,1,15.0,310.0,2.999294871794872
+0e8a60f439,1, M,18.0,Privado,No,Si,Propia,4,Padre(s),5,Aporta en el hogar,Aporta en el hogar,Secundaria,Secundaria,1,SI,60.0,1,Recursos Propios,Poco probable,2,1,1,,302.0,0.0
+ca6acc5e69,1, M,22.0,Privado,No,Si,Arrendada,3,Padre(s),4,Aporta en el hogar,Aporta en el hogar,Secundaria,Técnico,4,SI,60.0,1,Otra beca,Prefiero no responder,3,1,1,,308.0,1.3
+f4a3c57b0f,1, M,20.0,Privado,No,Si,Propia,Prefiero no responder,Padre(s),3,Aporta en el hogar,Aporta en el hogar,Profesional,Profesional,0,No,60.0,2,Otra beca,Prefiero no responder,2,1,1,,311.3333333333333,0.6
+f071348f14,1, F,21.0,Privado,No,Si,Arrendada,3,Padre(s),4,Aporta en el hogar,Aporta en el hogar,Profesional,Primaria,5,No,60.0,2,Otra beca,Prefiero no responder,3,1,1,,336.6666666666667,1.5
+387d14d8ff,1, M,18.0,Público,No,Si,Propia,2,Padre(s),5,Aporta en el hogar,Aporta en el hogar,Profesional,Profesional,5,No,60.0,1,Crédito Estrella,Poco probable,4,1,1,1.0,332.0,1.621538461538462
+ca4cccadc3,1, F,18.0,Privado,No,Si,Arrendada,1,Padre(s),4,Aporta en el hogar,Aporta en el hogar,Secundaria,Técnico,5,No,150.0,0,Jóvenes a la U,Prefiero no responder,4,2,3,1.0,261.0,1.650923076923077
+9cba3e2058,1, M,19.0,Público,No,Si,Propia,2,Padre(s),4,Aporta en el hogar,No Aporta en el hogar,Secundaria,Secundaria,1,No,90.0,2,Jóvenes a la U,Prefiero no responder,3,1,1,0.0,287.0,1.573846153846154
+b5519a3473,1, M,21.0,Privado,No,Si,Propia,2,Padre(s),3,Aporta en el hogar,Aporta en el hogar,Primaria,Secundaria,4,No,30.0,0,Recursos Propios,Poco probable,4,1,1,5.0,256.0,2.855384615384616
+dd754f324d,1, M,19.0,Privado,No,Si,Propia,3,Padre(s),4,Aporta en el hogar,Aporta en el hogar,Profesional,Profesional,1,No,60.0,2,Otra beca,Prefiero no responder,4,1,1,,314.3333333333333,0.0
+3b352bbe15,1, M,19.0,Público,No,Si,Arrendada,1,Padre(s),4,Aporta en el hogar,No Aporta en el hogar,Secundaria,Primaria,1,SI,90.0,1,Jóvenes a la U,Improbable,2,1,1,2.0,275.0,1.752666666666667
+1ad1a290ea,1, M,19.0,Privado,No,Si,Propia,3,Padre(s),5,No Aporta en el hogar,Aporta en el hogar,Profesional,Técnico,3,No,90.0,1,Icetex,Poco probable,3,1,1,0.0,314.0,2.26923076923077
+0d1537ab78,2, M,19.0,Público,No,Si,Prefiero no responder,2,Propio,2,Aporta en el hogar,Aporta en el hogar,Técnico,Tecnólogo,2,No,120.0,2,Jóvenes a la U,Prefiero no responder,4,1,1,3.0,347.0,3.877777777777778
+4551206467,2, F,26.0,Público,No,Si,Propia,2,Padre(s),4,Aporta en el hogar,Aporta en el hogar,Secundaria,Secundaria,3,No,120.0,2,Jóvenes a la U,Muy probable,3,3,3,13.0,285.0,3.745833333333333
+c619ec5ab6,2, M,21.0,Privado,No,Si,Arrendada,3,Padre(s),2,Aporta en el hogar,Aporta en el hogar,Profesional,Profesional,2,No,90.0,2,Crédito Estrella,Poco probable,3,1,1,1.0,327.0,3.468269230769231
+bee757e585,2, M,19.0,Privado,No,Si,Prefiero no responder,2,Padre(s),4,No Aporta en el hogar,Aporta en el hogar,Secundaria,Profesional,5,No,90.0,2,Jóvenes a la U,Improbable,4,1,1,0.0,348.0,3.317226720647773
+e9cec30660,2, M,20.0,Público,No,Si,Arrendada,2,Padre(s),3,Aporta en el hogar,Aporta en el hogar,Tecnólogo,Profesional,1,No,90.0,2,Icetex,Poco probable,2,1,1,0.0,240.0,3.07341628959276
+d8a820ae0e,2, F,20.0,Público,No,Si,Arrendada,3,Padre(s),4,Aporta en el hogar,No Aporta en el hogar,Secundaria,Desconocido,2,No,60.0,1,Jóvenes a la U,Prefiero no responder,3,1,1,3.0,69.0,3.701111111111111
+8acec10b9e,2, M,21.0,Público,No,Si,Propia,2,Padre(s),5,Aporta en el hogar,Aporta en el hogar,Secundaria,Secundaria,1,No,120.0,3,Icetex,Poco probable,5,1,1,5.0,247.0,3.207149321266968
+968c81c793,2, M,20.0,Público,No,Si,Arrendada,3,Padre(s),4,Aporta en el hogar,Aporta en el hogar,Primaria,Primaria,2,No,120.0,2,Jóvenes a la U,Muy probable,5,1,1,1.0,316.0,3.0925
+049f3171eb,2, F,18.0,Público,No,Si,Arrendada,3,Padre(s),4,Aporta en el hogar,Aporta en el hogar,Profesional,Profesional,4,No,90.0,1,Jóvenes a la U,Poco probable,5,1,1,0.0,332.0,3.558290598290598
+a8738b1266,2, M,18.0,Privado,No,Si,Arrendada,3,Padre(s),2,Aporta en el hogar,Aporta en el hogar,Profesional,Desconocido,3,SI,120.0,2,Otra beca,Poco probable,2,1,1,0.0,367.0,3.462897435897436
+8488901cf8,2, M,18.0,Público,No,Si,Propia,2,Padre(s),5,Aporta en el hogar,No Aporta en el hogar,Primaria,Desconocido,2,No,90.0,3,Jóvenes a la U,Poco probable,3,1,2,0.0,267.0,2.928621794871795
+1de8d120c3,2, M,19.0,Público,No,Si,Propia,2,Padre(s),5,Aporta en el hogar,No Aporta en el hogar,Profesional,Desconocido,4,SI,150.0,2,Jóvenes a la U,Improbable,5,1,1,3.0,337.0,3.192435897435898
+7be8874a33,2, M,20.0,Público,No,Si,Arrendada,2,Padre(s),4,Aporta en el hogar,No Aporta en el hogar,Secundaria,Desconocido,0,No,90.0,3,Jóvenes a la U,Improbable,5,1,1,3.0,238.0,2.506923076923077
+1df188292e,2, F,21.0,Público,Si,Si,Propia,2,Propio,7,No Aporta en el hogar,Aporta en el hogar,Primaria,Técnico,2,No,90.0,2,Jóvenes a la U,Prefiero no responder,3,1,1,0.0,275.0,3.3
+5cbde41448,2, M,18.0,Privado,No,Si,Propia,3,Padre(s),4,Aporta en el hogar,Aporta en el hogar,Profesional,Posgrado,5,No,150.0,2,Icetex,Muy probable,3,1,2,0.0,330.0,3.511133603238866
+da205b3af8,2, M,20.0,Privado,No,Si,Arrendada,3,Padre(s),4,Aporta en el hogar,Aporta en el hogar,Técnico,Técnico,1,SI,90.0,1,Jóvenes a la U,Poco probable,5,1,1,3.0,252.0,3.454333333333333
+436892ddd4,2, M,19.0,Público,No,Si,Propia,3,Padre(s),5,No Aporta en el hogar,Aporta en el hogar,Secundaria,Secundaria,0,No,60.0,2,Jóvenes a la U,Poco probable,6,1,1,1.0,288.0,3.194615384615385
+cf565e1745,2, F,19.0,Privado,No,Si,Arrendada,3,Propio,2,No Aporta en el hogar,Aporta en el hogar,Desconocido,Desconocido,4,No,90.0,2,Otra beca,Muy probable,3,1,1,0.0,310.0,3.572601809954751
+52ed89b65b,2, M,19.0,Privado,No,Si,Propia,2,Padre(s),4,Aporta en el hogar,Aporta en el hogar,Posgrado,Profesional,2,No,150.0,2,Crédito Estrella Pro,Poco probable,2,1,1,0.0,338.0,3.925467032967033
+27f26d1bc6,2, M,21.0,Público,No,Si,Arrendada,3,Padre(s),4,No Aporta en el hogar,Aporta en el hogar,Profesional,Profesional,2,No,90.0,1,Jóvenes a la U,Improbable,4,1,1,4.0,290.0,3.304666666666667
+7e2c56ef6f,2, M,19.0,Privado,No,Si,Propia,3,Padre(s),3,Aporta en el hogar,Aporta en el hogar,Profesional,Profesional,4,No,90.0,2,Recursos Propios,Poco probable,2,1,1,1.0,331.0,3.475263157894737
+7ec6d047c8,2, M,24.0,Público,No,Si,Propia,3,Padre(s),7,No Aporta en el hogar,Aporta en el hogar,Primaria,Secundaria,1,No,60.0,1,Jóvenes a la U,Prefiero no responder,3,1,2,13.0,280.0,3.6275
+fbfb2a4dc3,3, F,19.0,Privado,No,Si,Propia,2,Familiar(es),4,Aporta en el hogar,Aporta en el hogar,Secundaria,Secundaria,5,SI,30.0,0,Jóvenes a la U,Muy probable,3,3,4,3.0,335.0,3.818325791855204
+51eca59f24,3, F,18.0,Público,No,Si,Prefiero no responder,3,Padre(s),3,No Aporta en el hogar,No Aporta en el hogar,Tecnólogo,Posgrado,5,No,90.0,3,Jóvenes a la U,Prefiero no responder,3,1,1,0.0,329.0,4.230104166666667
+b253bab85f,3, F,19.0,Privado,No,Si,Propia,5,Padre(s),5,Aporta en el hogar,Aporta en el hogar,Profesional,Secundaria,2,SI,30.0,0,Recursos Propios,Poco probable,3,1,1,3.0,350.0,4.114655870445344
+f85348689e,3, M,19.0,Público,No,Si,Arrendada,3,Padre(s),4,Aporta en el hogar,Aporta en el hogar,Secundaria,Secundaria,0,No,60.0,1,Jóvenes a la U,Prefiero no responder,3,1,1,0.0,369.0,4.061770833333333
+9316bf4f44,3, M,20.0,Privado,No,Si,Propia,2,Padre(s),4,Aporta en el hogar,Aporta en el hogar,Tecnólogo,Secundaria,2,No,60.0,2,Jóvenes a la U,Poco probable,2,1,1,1.0,325.0,3.297793522267206
+430e573a9f,3, F,19.0,Público,No,Si,Arrendada,2,Padre(s),4,No Aporta en el hogar,Aporta en el hogar,Secundaria,Secundaria,2,No,90.0,2,Jóvenes a la U,Prefiero no responder,2,1,1,0.0,303.0,3.8575
+d75e9e5f9c,3, M,24.0,Privado,No,Si,Propia,2,Propio,1,No Aporta en el hogar,Aporta en el hogar,Secundaria,Primaria,2,No,90.0,1,Jóvenes a la U,Poco probable,3,1,1,13.0,306.0,3.705445344129553
+72f207b4a1,3, F,22.0,Público,No,Si,Arrendada,2,Padre(s),3,Aporta en el hogar,Aporta en el hogar,Primaria,Primaria,4,No,90.0,2,Jóvenes a la U,Poco probable,3,1,4,5.0,325.0,3.919375
+da0c41fdf9,3, M,19.0,Privado,No,Si,Arrendada,3,Padre(s),2,Aporta en el hogar,Aporta en el hogar,Posgrado,Profesional,3,No,30.0,1,Crédito Estrella,Poco probable,3,1,1,0.0,332.0,3.515972850678733
+23a32911d2,3, M,19.0,Público,No,Si,Propia,3,Padre(s),5,Aporta en el hogar,No Aporta en el hogar,Profesional,Desconocido,1,No,30.0,1,Jóvenes a la U,Prefiero no responder,2,1,1,0.0,315.0,4.040069444444445
+2c11c9c3c0,3, F,18.0,Privado,No,Si,Propia,4,Padre(s),5,Aporta en el hogar,Aporta en el hogar,Profesional,Profesional,0,No,60.0,1,Recursos Propios,Poco probable,4,2,1,1.0,378.0,3.953016194331984
+cd525fafb8,3, F,23.0,Público,No,Si,Propia,2,Padre(s),3,Aporta en el hogar,Aporta en el hogar,Técnico,Secundaria,5,No,90.0,2,Jóvenes a la U,Prefiero no responder,2,1,1,10.0,368.0,4.3096875
+de5b0261d8,3, M,21.0,Privado,No,Si,Propia,6,Padre(s),4,Aporta en el hogar,Aporta en el hogar,Posgrado,Secundaria,2,SI,60.0,2,Recursos Propios,Poco probable,3,1,1,5.0,326.0,4.4296875
+cb7fe0e739,3, M,19.0,Privado,No,Si,Propia,3,Padre(s),2,Aporta en el hogar,Aporta en el hogar,Posgrado,Posgrado,2,No,90.0,2,Recursos Propios,Improbable,3,1,1,1.0,364.0,4.015982142857142
+51d75936aa,3, F,25.0,Privado,No,Si,Arrendada,3,Propio,2,Aporta en el hogar,Aporta en el hogar,Secundaria,Tecnólogo,3,No,90.0,1,Jóvenes a la U,Prefiero no responder,3,1,1,13.0,314.0,3.68917004048583
+befd0d4a6f,3, F,24.0,Privado,No,Si,Prefiero no responder,3,Padre(s),6,No Aporta en el hogar,Aporta en el hogar,Tecnólogo,Técnico,1,No,60.0,2,Jóvenes a la U,Prefiero no responder,5,1,1,11.0,297.0,3.610435897435898
+669bfeaadf,3, F,20.0,Público,No,Si,Propia,3,Padre(s),6,No Aporta en el hogar,Aporta en el hogar,Secundaria,Secundaria,2,No,60.0,1,Jóvenes a la U,Prefiero no responder,2,1,3,2.0,315.0,3.639663461538461
+300cf24de5,3, M,19.0,Privado,Si,Si,Prefiero no responder,2,Padre(s),3,Aporta en el hogar,Aporta en el hogar,Secundaria,Primaria,1,No,60.0,1,Jóvenes a la U,Prefiero no responder,5,1,1,1.0,345.0,4.114858299595141
+52ac42a646,3, M,18.0,Privado,No,Si,Arrendada,4,Padre(s),4,Aporta en el hogar,Aporta en el hogar,Secundaria,Profesional,2,No,60.0,1,Recursos Propios,Improbable,3,2,1,1.0,302.0,3.81242914979757
+7ef59bf4d2,3, M,18.0,Privado,No,Si,Propia,5,Padre(s),4,Aporta en el hogar,Aporta en el hogar,Desconocido,Profesional,3,No,30.0,1,Recursos Propios,Improbable,2,1,1,-0.0,338.0,4.028376068376068
+ebd54ed8c6,3, F,19.0,Público,No,Si,Arrendada,2,Padre(s),3,No Aporta en el hogar,Aporta en el hogar,Secundaria,Posgrado,1,No,60.0,1,Jóvenes a la U,Poco probable,3,1,2,0.0,320.0,3.405972850678733
+ff2d8d0a0e,3, M,22.0,Privado,No,Si,Prefiero no responder,Prefiero no responder,Padre(s),4,No Aporta en el hogar,Aporta en el hogar,Profesional,Posgrado,3,SI,60.0,1,Recursos Propios,Poco probable,2,1,1,7.0,333.0,4.546315789473685
+c2fd775b72,3, M,18.0,Privado,No,Si,Arrendada,3,Padre(s),3,Aporta en el hogar,Aporta en el hogar,Posgrado,Profesional,2,SI,30.0,0,Otra beca,Poco probable,4,1,1,0.0,357.0,4.176599190283401
+ea6e8245af,1, M,18.0,Público,No,Si,Arrendada,3,Padre(s),3,Aporta en el hogar,Aporta en el hogar,Secundaria,Secundaria,0,No,120.0,3,Jóvenes a la U,Muy probable,4,1,1,2.0,307.0,3.402
+9f0e7e0a4d,1, F,18.0,Público,No,Si,Prefiero no responder,3,Padre(s),5,No Aporta en el hogar,No Aporta en el hogar,Desconocido,Desconocido,1,SI,150.0,3,Jóvenes a la U,Prefiero no responder,6,1,1,36.0,202.0,1.035333333333333
+6a7b15dac2,1, M,18.0,Privado,No,Si,Propia,3,Padre(s),3,Aporta en el hogar,Aporta en el hogar,Profesional,Profesional,5,No,60.0,2,Recursos Propios,Poco probable,5,1,1,2.0,320.0,2.645333333333333
+183e5ccbf4,1, M,18.0,Público,No,Si,Prefiero no responder,1,Padre(s),7,No Aporta en el hogar,Aporta en el hogar,Tecnólogo,Técnico,0,No,90.0,2,Jóvenes a la U,Poco probable,5,1,1,0.0,386.0,
+a5deea957b,1, F,20.0,Público,No,Si,Propia,3,Padre(s),4,Aporta en el hogar,Aporta en el hogar,Técnico,Técnico,5,SI,150.0,2,Jóvenes a la U,Improbable,3,1,1,3.0,349.0,0.5713333333333335
+3d30c5a511,2, M,18.0,Privado,No,Si,Arrendada,2,Padre(s),3,Aporta en el hogar,Aporta en el hogar,Profesional,Tecnólogo,3,No,90.0,1,Crédito Estrella,Poco probable,6,1,1,2.0,389.0,4.610555555555556
+ca6a7c237b,2, M,18.0,Público,No,Si,Arrendada,3,Padre(s),5,Aporta en el hogar,Aporta en el hogar,Secundaria,Técnico,5,No,60.0,1,Jóvenes a la U,Improbable,3,2,1,0.0,345.0,3.983333333333333
+b5dd32f4c2,2, M,17.0,Privado,No,Si,Propia,3,Padre(s),4,Aporta en el hogar,Aporta en el hogar,Profesional,Profesional,3,No,120.0,2,Recursos Propios,Poco probable,5,3,1,2.0,313.0,3.407333333333333
+cf0c745db9,2, F,18.0,Privado,No,Si,Propia,4,Padre(s),4,No Aporta en el hogar,Aporta en el hogar,Posgrado,Posgrado,5,No,60.0,1,Recursos Propios,Improbable,4,1,1,2.0,378.0,4.572777777777777
+0153942dd6,2, F,17.0,Público,No,Si,Propia,2,Padre(s),3,Aporta en el hogar,Aporta en el hogar,Secundaria,Secundaria,3,No,120.0,2,Jóvenes a la U,Improbable,3,1,1,0.0,304.0,4.541666666666667
+a53722f8cd,2, M,17.0,Público,No,Si,Arrendada,2,Padre(s),5,No Aporta en el hogar,Aporta en el hogar,Secundaria,Profesional,2,SI,60.0,2,Otra beca,Prefiero no responder,3,1,1,2.0,335.0,3.84111111111111
+095b5d9450,2, M,20.0,Privado,No,Si,Propia,5,Familiar(es),3,Aporta en el hogar,Aporta en el hogar,Profesional,Profesional,1,SI,60.0,1,Crédito Estrella,Poco probable,4,1,1,2.0,316.0,3.744444444444445
+dcf621e7e3,2, M,18.0,Privado,No,Si,Propia,3,Padre(s),3,Aporta en el hogar,Aporta en el hogar,Posgrado,Desconocido,2,No,30.0,2,Recursos Propios,Poco probable,3,1,1,2.0,322.0,3.184
+60e2dcc6f4,2, F,19.0,Público,No,Si,Propia,3,Familiar(es),3,Aporta en el hogar,No Aporta en el hogar,Profesional,Profesional,2,No,120.0,3,Jóvenes a la U,Improbable,3,2,1,2.0,325.0,4.37
+17c11f45c7,2, M,19.0,Privado,No,Si,Propia,3,Padre(s),4,Aporta en el hogar,Aporta en el hogar,Secundaria,Profesional,4,No,30.0,1,Icetex,Poco probable,2,1,1,2.0,303.0,3.644
+f532128206,2, F,16.0,Privado,No,Si,Propia,3,Padre(s),3,Aporta en el hogar,Aporta en el hogar,Posgrado,Desconocido,3,No,60.0,1,Recursos Propios,Improbable,5,1,1,2.0,351.0,3.740666666666667
+80bcfa87cd,2, M,18.0,Privado,Si,Si,Arrendada,2,Propio,4,Aporta en el hogar,Aporta en el hogar,Profesional,Profesional,1,SI,30.0,0,Crédito Estrella Pro,Prefiero no responder,5,1,1,2.0,373.0,4.464999999999999
+d250c0c474,2, M,17.0,Privado,No,Si,Propia,3,Padre(s),4,Aporta en el hogar,Aporta en el hogar,Secundaria,Profesional,1,No,30.0,1,Recursos Propios,Poco probable,5,1,1,2.0,269.0,3.510666666666668
+e7954f86b1,2, M,22.0,Público,No,Si,Prefiero no responder,3,Propio,2,Aporta en el hogar,Aporta en el hogar,Profesional,Secundaria,2,No,90.0,1,Jóvenes a la U,Prefiero no responder,3,1,1,6.0,328.0,4.085555555555555
+81e107f6f2,2, M,18.0,Público,No,Si,Propia,2,Padre(s),4,Aporta en el hogar,Aporta en el hogar,Posgrado,Profesional,3,No,120.0,2,Crédito Estrella Pro,Poco probable,2,1,1,2.0,361.0,4.471111111111111
+fef5233331,2, F,19.0,Público,No,Si,Propia,2,Propio,2,Aporta en el hogar,Aporta en el hogar,Secundaria,Primaria,2,No,90.0,1,Jóvenes a la U,Prefiero no responder,6,1,1,2.0,313.0,4.14
+3e0a8b63a4,2, M,18.0,Público,No,Si,Arrendada,3,Propio,3,Aporta en el hogar,No Aporta en el hogar,Posgrado,Profesional,3,SI,30.0,2,Otra beca,Poco probable,5,1,1,2.0,370.0,3.677333333333333
+6b2cbba6a4,2, F,17.0,Público,No,Si,Arrendada,4,Padre(s),4,Aporta en el hogar,Aporta en el hogar,Profesional,Profesional,5,No,60.0,1,Jóvenes a la U,Improbable,4,1,1,0.0,347.0,3.488
+1c863f54ce,2, M,19.0,Público,No,Si,Arrendada,3,Padre(s),5,Aporta en el hogar,No Aporta en el hogar,Profesional,Profesional,3,No,60.0,1,Otra beca,Muy probable,2,1,1,0.0,314.6666666666667,3.815
+d44f56d6dc,2, M,17.0,Público,No,Si,Arrendada,3,Propio,1,No Aporta en el hogar,Aporta en el hogar,Secundaria,Posgrado,3,No,30.0,0,Recursos Propios,Poco probable,4,1,1,0.0,308.0,3.377333333333334
+15f8716fbe,2, F,18.0,Público,No,Si,Arrendada,1,Padre(s),6,No Aporta en el hogar,Aporta en el hogar,Primaria,Secundaria,5,No,60.0,2,Jóvenes a la U,Poco probable,5,1,1,0.0,296.0,3.499333333333333
+f64c549c26,2, M,19.0,Público,No,Si,Arrendada,2,Padre(s),5,Aporta en el hogar,Aporta en el hogar,Secundaria,Primaria,0,No,120.0,2,Jóvenes a la U,Muy probable,4,1,1,2.0,273.0,3.63
+1a385b7568,2, M,18.0,Privado,No,Si,Propia,4,Padre(s),4,Aporta en el hogar,Aporta en el hogar,Primaria,Profesional,2,No,60.0,2,Recursos Propios,Poco probable,5,1,1,2.0,310.0,3.368
+af6aa7a2a8,2, M,18.0,Privado,No,Si,Arrendada,3,Padre(s),2,Aporta en el hogar,Aporta en el hogar,Técnico,Desconocido,0,SI,60.0,1,Recursos Propios,Improbable,6,1,1,2.0,278.0,3.276111111111111
+d0990535cc,2, M,17.0,Privado,No,Si,Propia,2,Padre(s),4,Aporta en el hogar,Aporta en el hogar,Posgrado,Secundaria,2,No,90.0,2,Otra beca,Improbable,3,1,1,0.0,302.0,3.505555555555555
+373fd62f33,2, M,18.0,Privado,No,Si,Propia,3,Padre(s),4,Aporta en el hogar,Aporta en el hogar,Posgrado,Profesional,1,No,30.0,1,Recursos Propios,Poco probable,3,1,1,2.0,356.0,3.621666666666667
+4d5a94edc8,2, F,18.0,Privado,No,Si,Propia,3,Padre(s),4,Aporta en el hogar,Aporta en el hogar,Secundaria,Secundaria,1,No,30.0,1,Recursos Propios,Improbable,2,1,1,2.0,342.0,4.05611111111111
+63693fed82,2, F,24.0,Público,No,Si,Arrendada,2,Padre(s),4,Aporta en el hogar,No Aporta en el hogar,Primaria,Primaria,1,No,60.0,1,Jóvenes a la U,Improbable,3,1,1,12.0,311.0,4.013333333333334
+b888587957,2, M,18.0,Privado,No,Si,Propia,4,Padre(s),4,Aporta en el hogar,Aporta en el hogar,Posgrado,Profesional,1,No,90.0,1,Recursos Propios,Poco probable,2,1,1,0.0,375.0,4.676666666666666
+e527bbbeda,2, M,18.0,Privado,No,Si,Propia,3,Padre(s),4,No Aporta en el hogar,Aporta en el hogar,Posgrado,Profesional,1,No,90.0,1,Crédito Estrella Pro,Improbable,4,1,1,2.0,345.0,4.021111111111111
+e439a4c8cd,2, M,20.0,Público,No,Si,Arrendada,3,Padre(s),7,Aporta en el hogar,No Aporta en el hogar,Posgrado,Desconocido,3,No,60.0,1,Otra beca,Poco probable,3,1,1,4.0,312.0,3.776666666666666
+2788ebebe2,2, F,17.0,Público,No,Si,Arrendada,3,Padre(s),3,Aporta en el hogar,Aporta en el hogar,Secundaria,Primaria,5,No,90.0,1,Jóvenes a la U,Improbable,2,1,1,0.0,290.0,3.554
+7fdbfbe90b,2, F,18.0,Privado,No,Si,Propia,3,Padre(s),3,Aporta en el hogar,Aporta en el hogar,Posgrado,Profesional,30,No,30.0,1,Recursos Propios,Poco probable,3,1,1,2.0,310.0,3.921111111111111
+b06d37538a,2, F,17.0,Público,No,Si,Propia,2,Padre(s),3,Aporta en el hogar,Aporta en el hogar,Posgrado,Posgrado,2,No,120.0,2,Recursos Propios,Muy probable,4,1,2,2.0,307.0,3.699333333333333
